@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCRUD</string>
+    <array name="genres">
+        <item>Ya</item>
+        <item>Tidak</item>
+    </array>
+</resources>
